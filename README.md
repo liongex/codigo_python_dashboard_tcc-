@@ -1,6 +1,4 @@
-Aqui está um modelo de **`README.md`** completo, estruturado de forma profissional e com padrão industrial para o seu repositório do GitHub. Ele reflete exatamente a arquitetura que implementamos, destacando a segurança (TLS-PSK) e a stack moderna (Python 3.13 e PyQt6), o que agregará muito valor visual e técnico ao seu TCC.
 
----
 
 # # Sistema de Monitoramento Inteligente de Energia Elétrica (Bancada Trifásica)
 
